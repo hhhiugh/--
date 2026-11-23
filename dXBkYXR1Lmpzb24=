@@ -1,7 +1,8 @@
 {
   "updates": [
     {
-      "lib": "https://github.com/hhhiugh/NadaL/raw/refs/heads/main/libstpengine.so"
+      "lib": "https://github.com/hhhiugh/NadaL/raw/refs/heads/main/libstpengine.so",
+      "sha256": "b4c0800a831aba20c20dcb7456d12627163479d52156ccac0c37b352ad5bdee1"
     }
   ]
 }
